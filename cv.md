@@ -2,7 +2,7 @@
 
 
 
-##KISISEL BILGILER
+##KİŞİSEL BİLGİLER
 
 * **Medeni Durumu :** Bekâr 
 
@@ -33,7 +33,7 @@
  * C 
  * C++
 
-##İLGİ ALANLARI 
+##İLGİ ALANLARI
 
 * Üç Boyutlu Katı Modelleme  
 * PIC Programlama 
