@@ -24,7 +24,7 @@
 
 * İngilizce
 
-##Yetkinlikler
+##YETKİNLİKLER
 
  * Microsoft Office 
  * AutoCad 
