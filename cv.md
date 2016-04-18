@@ -1,5 +1,5 @@
 #Semih YILDIZ
-
+![](https://raw.githubusercontent.com/smhyldz/CV/master/resim.jpg)
 
 
 ##KİŞİSEL BİLGİLER
