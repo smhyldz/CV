@@ -1,15 +1,21 @@
 #Semih YILDIZ
 
-Çalışma Durumu : Çalışmıyorum 
 
-Eğitim Durumu : Üniversite (Öğrenci) 
 
-Medeni Durumu : Bekâr 
+##Kisisel Bilgiler
 
-Askerlik Durumu : Yapılmadı 
+***Medeni Durumu :** BekÃ¢r 
 
-Doğum Tarihi : 26.05.1994 
+***Askerlik Durumu :** YapÄ±lmadÄ± 
 
-Doğum Yeri : Türkiye - Kocaeli 
+***DoÄŸum Tarihi :** 26.05.1994 
 
-Sürücü Belgesi : B
+***DoÄŸum Yeri :** TÃ¼rkiye - Kocaeli 
+
+***SÃ¼rÃ¼cÃ¼ Belgesi :** B
+
+##EÄÄ°TÄ°M DURUMU
+
+2013 -â€¦ :NiÄŸde Ãœniversitesi MÃ¼hendislik FakÃ¼ltesi ( Mekatronik MÃ¼hendisliÄŸi)
+
+2008 - 2012: Ä°zmit AtÄ±lÄ±m Anadolu Lisesi
