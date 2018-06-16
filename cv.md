@@ -20,10 +20,6 @@
 
 * **2008 - 2012**: İzmit Atılım Anadolu Lisesi
 
-##YABANCI DİL
-
-* İngilizce
-
 ##YETKİNLİKLER
 
  * Microsoft Office 
